@@ -1,0 +1,11 @@
+to make the mail work you have to
+
+put the 2 .dll in
+C:\Qt\Qt5.9.9\5.9.9\mingw53_32\bin
+
+activate less secure app in you gmail account settings
+here's a link to help
+https://myaccount.google.com/u/1/lesssecureapps?gar=1&rapt=AEjHL4PQSXHn-tLnWxJf2g1JS9EsnXwKkD4_BOrZ1ARE3PKov0LgXuqG1NZ9456YFymH0R545y6k9dEg4u2tEYyPZ4WC3yHb3g
+
+in gestion.h
+last line replace  with your mail 

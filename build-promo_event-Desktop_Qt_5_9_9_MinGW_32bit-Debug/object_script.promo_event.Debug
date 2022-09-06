@@ -1,0 +1,16 @@
+INPUT(
+./debug\connexion.o
+./debug\evenement.o
+./debug\exportexcelobject.o
+./debug\gestion_promo_event.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\promo.o
+./debug\smtp.o
+./debug\stat_categorie.o
+./debug\moc_exportexcelobject.o
+./debug\moc_gestion_promo_event.o
+./debug\moc_mainwindow.o
+./debug\moc_smtp.o
+./debug\moc_stat_categorie.o
+);
